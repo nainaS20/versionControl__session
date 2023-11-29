@@ -1,0 +1,3 @@
+INT A ,INT B ;
+INT ANS=A*B;
+RETURN ANS;
